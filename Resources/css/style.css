@@ -5,12 +5,13 @@
     font-size: 20px;
     position: fixed;
     width: 100%;
-    top:0;
+    top: 0;
     font-weight: lighter;
     margin-top: 0;
     /* hey*/
 
 }
+
 .navbar {
     vertical-align: middle;
     height: 70px;
@@ -22,25 +23,30 @@
     display: flex;
 
 }
+
 .navbar #men {
     color: black;
     font-weight: normal;
     margin-right: 20px;
-    
+
 }
+
 .navbar #women {
     color: black;
     margin-right: 20px;
 }
+
 .navbar #container {
     text-align: center;
     margin: auto;
     display: flex;
-    
+
 }
+
 .navbar #sale {
     color: black;
 }
+
 .navbar img {
     height: 55px;
     margin-left: auto;
@@ -50,8 +56,9 @@
 
 }
 
-.navbar .container button{
-    background-color: #4CAF50; /* Green */
+.navbar .container button {
+    background-color: #4CAF50;
+    /* Green */
     border: none;
     color: white;
     padding: 15px 32px;
@@ -59,8 +66,8 @@
     text-decoration: none;
     display: inline-block;
     font-size: 16px
-    
 }
+
 .pajamagirl {
     padding-top: 400px;
     background-image: url('../images/womens.jpeg');
@@ -70,5 +77,4 @@
     background-image: url('../images/mensPJ.jpeg');
 }
 
-#searchbox {
-}
+#searchbox {}
